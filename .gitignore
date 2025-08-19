@@ -28,3 +28,7 @@ Thumbs.db
 # Personal work files
 **/answers/
 **/pr_description.txt
+
+# Local development files
+.claude/
+CLAUDE.md
